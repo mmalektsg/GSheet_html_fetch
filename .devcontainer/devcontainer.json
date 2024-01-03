@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "Codespace for GSheet_html_fetch!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
